@@ -1,0 +1,17 @@
+{
+  "bin":{
+    "h-server" : "index.js"
+  },
+  "name": "h-server",
+  "version": "0.0.2",
+  "description": "Mini static http server without any dependences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "static", "http", "server"
+  ],
+  "author": "hawk",
+  "license": "MIT"
+}
